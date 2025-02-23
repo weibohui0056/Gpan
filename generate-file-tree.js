@@ -13,7 +13,8 @@ const excludePatterns = [
     'index.html',
     'assets/**',
     '*README.md',
-    'README.md'
+    'README.md',
+    'LICENSE'
 ];
 
 // 获取文件树
