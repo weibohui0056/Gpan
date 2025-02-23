@@ -1,6 +1,6 @@
 # Gpan
 Gpan, **Open Source**, **Free**, **Private** and **Simple**.
-[**Demo Website**](https://bohui-gpan.pages.dev)
+[**Demo Website**](https://gpan.pages.dev)
 # Purpose
 **Convenient data sharing, free internet spirit.**
 # Quick Start
