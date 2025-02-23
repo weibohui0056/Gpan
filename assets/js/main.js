@@ -1,5 +1,6 @@
 
 const fileTree = {
+  "README_CN.md": "README_CN.md",
   "LICENSE": "LICENSE"
 };
 
