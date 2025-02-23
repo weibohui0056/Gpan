@@ -1,6 +1,5 @@
 
 const fileTree = {
-  "gpan.zip": "gpan.zip",
   "LICENSE": "LICENSE"
 };
 
